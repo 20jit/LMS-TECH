@@ -1,0 +1,69 @@
+#logo{
+	margin-left:50px;
+	display:block;
+	width:7%;
+}
+
+#nav{
+	padding:30px;
+	overflow: none;
+	text-align:center;
+    background-color: #154854;
+}
+
+ul li{
+	font-family:monospace;
+	display: inline-block;
+    margin-right: auto;
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto
+}
+
+ul li a{
+	text-decoration: none;
+	color:white;
+	margin-right:70px;
+	margin-left: 70px;
+}
+
+ul li a:hover{
+	background-color:#1D6374; 
+
+}
+
+p{
+	font-family:monospace;
+}
+
+main{
+	text-align:center;
+}
+
+footer{
+	background-color: #154854;
+	height:100px;
+}
+
+footer img{
+	float:left;
+	text-align:center;
+	border-radius: 5px;
+	margin-top:20px;
+}
+
+#insta{
+	margin-left:70px;
+}
+
+#twitter{
+	margin-left:290px;
+}
+
+#fb{
+	margin-left:340px;
+}
+
+#gmail{
+	margin-left:430px;
+}
