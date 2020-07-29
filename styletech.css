@@ -1,0 +1,127 @@
+#logo{
+	margin-left:50px;
+	display:block;
+	width:7%;
+}
+
+#nav{
+	padding:30px;
+	overflow: none;
+	text-align:center;
+    background-color: #154854;
+}
+
+ul li{                                                                                                                                                                                                                                                                                                                                                
+	font-family:monospace;
+	display: inline-block;
+    margin-right: auto;
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto
+}
+
+ul li a{
+	text-decoration: none;
+	color:white;
+	margin-right:70px;
+	margin-left: 70px;
+}
+
+ul li a:hover{
+	background-color:#1D6374; 
+
+}
+
+main{
+	text-align:center;
+	font-size:20px;
+	margin-left:40px;
+	margin-right:40px
+}
+
+.texte{
+	margin-left:30px;
+    margin-right:30px;
+}
+
+h1{
+	font-size:25px;
+}
+
+#question{
+	font-family:Georgia, serif;
+	color:#1D6374;
+}
+
+p{
+	font-family:monospace;
+}
+
+.photo{
+          display: flex;
+          flex-direction: row-reverse;
+          font-size:15px;
+        }
+
+figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 260px;
+    margin: auto;
+}
+
+img {
+    max-width: 500px;
+    max-height: 240px;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    display:inline-block;
+}
+
+a{
+	color:white;
+}
+
+p{
+	font-family:monospace;
+}
+
+#presentation{
+	display:flex;
+	font-size:20px;
+}
+
+footer{
+	background-color: #154854;
+	height:100px;
+}
+
+footer img{
+	float:left;
+    text-align:center;
+	border-radius: 5px;
+	margin-top:20px;
+}
+
+#insta{
+	margin-left:70px;
+}
+
+#twitter{
+	margin-left:290px;
+}
+
+#fb{
+	margin-left:340px;
+}
+
+#gmail{
+	margin-left:430px;
+}
